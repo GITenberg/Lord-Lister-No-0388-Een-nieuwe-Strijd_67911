@@ -1,5 +1,8 @@
 _repo: Lord-Lister-No-0388-Een-nieuwe-Strijd_67911
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Matull, Kurt
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53451
     wikipedia: https://nl.wikipedia.org/wiki/Felix_Hageman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67911#Lord-Lister-No-0388-Een-nieuwe-Strijd
 gutenberg_issued: '2022-04-23'
 identifiers:
   gutenberg: '67911'
